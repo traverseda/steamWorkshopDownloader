@@ -1,0 +1,4 @@
+requests
+bson
+loguru
+tqdm
